@@ -1,2 +1,2 @@
 # esijs
-My AGOL Lab
+My First ESRI JS Map
